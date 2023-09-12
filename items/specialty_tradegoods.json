@@ -1,0 +1,603 @@
+[
+    {
+      "entry": 17967,
+      "name": "Refined Scale of Onyxia",
+      "Quality": 3,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 19767,
+      "name": "Primal Bat Leather",
+      "Quality": 1,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 19768,
+      "name": "Primal Tiger Leather",
+      "Quality": 1,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 20381,
+      "name": "Dreamscale",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 25649,
+      "name": "Knothide Leather Scraps",
+      "Quality": 1,
+      "BuyPrice": 1000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 33567,
+      "name": "Borean Leather Scraps",
+      "Quality": 1,
+      "BuyPrice": 1800,
+      "item": null,
+      "Flags": 1088
+    },
+    {
+      "entry": 38557,
+      "name": "Icy Dragonscale",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 38561,
+      "name": "Jormungar Scale",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 49334,
+      "name": "Scale of Onyxia 2.0",
+      "Quality": 4,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 1288,
+      "name": "Large Venom Sac",
+      "Quality": 1,
+      "BuyPrice": 740,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 1475,
+      "name": "Small Venom Sac",
+      "Quality": 1,
+      "BuyPrice": 330,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 2693,
+      "name": "Stormwind Seasoning Salts",
+      "Quality": 1,
+      "BuyPrice": 80,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 2929,
+      "name": "Tomb Rot",
+      "Quality": 1,
+      "BuyPrice": 10,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 2932,
+      "name": "Torment Vine",
+      "Quality": 1,
+      "BuyPrice": 200,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 3164,
+      "name": "Discolored Worg Heart",
+      "Quality": 1,
+      "BuyPrice": 135,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 4402,
+      "name": "Small Flame Sac",
+      "Quality": 1,
+      "BuyPrice": 1000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 4589,
+      "name": "Long Elegant Feather",
+      "Quality": 1,
+      "BuyPrice": 2120,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 4611,
+      "name": "Blue Pearl",
+      "Quality": 1,
+      "BuyPrice": 200,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 5635,
+      "name": "Sharp Claw",
+      "Quality": 1,
+      "BuyPrice": 180,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 5637,
+      "name": "Large Fang",
+      "Quality": 1,
+      "BuyPrice": 300,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 6358,
+      "name": "Oily Blackmouth",
+      "Quality": 1,
+      "BuyPrice": 16,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 6359,
+      "name": "Firefin Snapper",
+      "Quality": 1,
+      "BuyPrice": 20,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 6370,
+      "name": "Blackmouth Oil",
+      "Quality": 1,
+      "BuyPrice": 40,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 6371,
+      "name": "Fire Oil",
+      "Quality": 1,
+      "BuyPrice": 48,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 7072,
+      "name": "Naga Scale",
+      "Quality": 1,
+      "BuyPrice": 600,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 8151,
+      "name": "Flask of Mojo",
+      "Quality": 1,
+      "BuyPrice": 1000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 8152,
+      "name": "Flask of Big Mojo",
+      "Quality": 1,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 9210,
+      "name": "Ghost Dye",
+      "Quality": 1,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 9262,
+      "name": "Black Vitriol",
+      "Quality": 1,
+      "BuyPrice": 4000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 12662,
+      "name": "Demonic Rune",
+      "Quality": 2,
+      "BuyPrice": 2400,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 12804,
+      "name": "Powerful Mojo",
+      "Quality": 1,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 12811,
+      "name": "Righteous Orb",
+      "Quality": 2,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 13422,
+      "name": "Stonescale Eel",
+      "Quality": 1,
+      "BuyPrice": 40,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 13423,
+      "name": "Stonescale Oil",
+      "Quality": 1,
+      "BuyPrice": 500,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 13503,
+      "name": "Alchemist's Stone",
+      "Quality": 4,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 13757,
+      "name": "Lightning Eel",
+      "Quality": 1,
+      "BuyPrice": 1200,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 17010,
+      "name": "Fiery Core",
+      "Quality": 3,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 17011,
+      "name": "Lava Core",
+      "Quality": 3,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 18512,
+      "name": "Larval Acid",
+      "Quality": 1,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 19441,
+      "name": "Huge Venom Sac",
+      "Quality": 1,
+      "BuyPrice": 6000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 19943,
+      "name": "Massive Mojo",
+      "Quality": 1,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 20520,
+      "name": "Dark Rune",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 21882,
+      "name": "Soul Essence",
+      "Quality": 1,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 22682,
+      "name": "Frozen Rune",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 24288,
+      "name": "Rune Thread",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 32428,
+      "name": "Heart of Darkness",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 34664,
+      "name": "Sunmote",
+      "Quality": 3,
+      "BuyPrice": 90000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 35748,
+      "name": "Guardian's Alchemist Stone",
+      "Quality": 4,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 35749,
+      "name": "Sorcerer's Alchemist Stone",
+      "Quality": 4,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 35750,
+      "name": "Redeemer's Alchemist Stone",
+      "Quality": 4,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 35751,
+      "name": "Assassin's Alchemist Stone",
+      "Quality": 4,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39151,
+      "name": "Alabaster Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39334,
+      "name": "Dusky Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39338,
+      "name": "Golden Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39339,
+      "name": "Emerald Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39340,
+      "name": "Violet Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39341,
+      "name": "Silvery Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39342,
+      "name": "Nether Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 39343,
+      "name": "Azure Pigment",
+      "Quality": 1,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 40195,
+      "name": "Pygmy Oil",
+      "Quality": 1,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 40199,
+      "name": "Pygmy Suckerfish",
+      "Quality": 1,
+      "BuyPrice": 200,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 42170,
+      "name": "Silver Brooch",
+      "Quality": 1,
+      "BuyPrice": 200000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 42171,
+      "name": "Emerald Brooch",
+      "Quality": 1,
+      "BuyPrice": 500000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43103,
+      "name": "Verdant Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43104,
+      "name": "Burnt Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43105,
+      "name": "Indigo Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43106,
+      "name": "Ruby Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43107,
+      "name": "Sapphire Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43108,
+      "name": "Ebon Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 43109,
+      "name": "Icy Pigment",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 44322,
+      "name": "Mercurial Alchemist Stone",
+      "Quality": 3,
+      "BuyPrice": 322031,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 44323,
+      "name": "Indestructible Alchemist's Stone",
+      "Quality": 3,
+      "BuyPrice": 322031,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 44324,
+      "name": "Mighty Alchemist's Stone",
+      "Quality": 3,
+      "BuyPrice": 322031,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 44852,
+      "name": "Cornmeal",
+      "Quality": 1,
+      "BuyPrice": 25,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 44958,
+      "name": "Ethereal Oil",
+      "Quality": 1,
+      "BuyPrice": 40,
+      "item": null,
+      "Flags": 0
+    }                             
+
+]

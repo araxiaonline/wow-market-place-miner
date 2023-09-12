@@ -1,0 +1,1234 @@
+[
+    {
+      "entry": 20974,
+      "name": "Design: Jade Pendant of Blasting",
+      "Quality": 2,
+      "BuyPrice": 2500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 20976,
+      "name": "Design: Citrine Pendant of Golden Healing",
+      "Quality": 2,
+      "BuyPrice": 3500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21940,
+      "name": "Design: Golden Hare",
+      "Quality": 2,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21944,
+      "name": "Design: Truesilver Boar",
+      "Quality": 2,
+      "BuyPrice": 7500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21945,
+      "name": "Design: The Aquamarine Ward",
+      "Quality": 2,
+      "BuyPrice": 7500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21947,
+      "name": "Design: Gem Studded Band",
+      "Quality": 2,
+      "BuyPrice": 7500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21949,
+      "name": "Design: Ruby Serpent",
+      "Quality": 2,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21953,
+      "name": "Design: Emerald Owl",
+      "Quality": 2,
+      "BuyPrice": 12500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21955,
+      "name": "Design: Black Diamond Crab",
+      "Quality": 2,
+      "BuyPrice": 12500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 21956,
+      "name": "Design: Dark Iron Scorpid",
+      "Quality": 2,
+      "BuyPrice": 12500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23130,
+      "name": "Design: Teardrop Blood Garnet",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23131,
+      "name": "Design: Bold Blood Garnet",
+      "Quality": 1,
+      "BuyPrice": 50000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23135,
+      "name": "Design: Inscribed Flame Spessarite",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23137,
+      "name": "Design: Glinting Flame Spessarite",
+      "Quality": 1,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23140,
+      "name": "Design: Radiant Deep Peridot",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23141,
+      "name": "Design: Jagged Deep Peridot",
+      "Quality": 1,
+      "BuyPrice": 50000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23144,
+      "name": "Design: Glowing Shadow Draenite",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23147,
+      "name": "Design: Sovereign Shadow Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23148,
+      "name": "Design: Brilliant Golden Draenite",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23151,
+      "name": "Design: Rigid Golden Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23152,
+      "name": "Design: Solid Azure Moonstone",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23153,
+      "name": "Design: Sparkling Azure Moonstone",
+      "Quality": 2,
+      "BuyPrice": 50000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23154,
+      "name": "Design: Stormy Azure Moonstone",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24158,
+      "name": "Design: Khorium Band of Shadows",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24159,
+      "name": "Design: Khorium Band of Frost",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24160,
+      "name": "Design: Khorium Inferno Band",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24161,
+      "name": "Design: Khorium Band of Leaves",
+      "Quality": 3,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24162,
+      "name": "Design: Arcane Khorium Band",
+      "Quality": 3,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24163,
+      "name": "Design: Heavy Felsteel Ring",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24164,
+      "name": "Design: Delicate Eternium Ring",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24165,
+      "name": "Design: Blazing Eternium Band",
+      "Quality": 3,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24166,
+      "name": "Design: Thick Felsteel Necklace",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24167,
+      "name": "Design: Living Ruby Pendant",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24168,
+      "name": "Design: Braided Eternium Chain",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24169,
+      "name": "Design: Eye of the Night",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24170,
+      "name": "Design: Embrace of the Dawn",
+      "Quality": 3,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24171,
+      "name": "Design: Chain of the Twilight Owl",
+      "Quality": 3,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24172,
+      "name": "Design: Coronet of Verdant Flame",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24173,
+      "name": "Design: Circlet of Arcane Might",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24192,
+      "name": "Design: Bright Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24193,
+      "name": "Design: Bold Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24194,
+      "name": "Design: Delicate Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24195,
+      "name": "Design: Teardrop Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24196,
+      "name": "Design: Runed Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24197,
+      "name": "Design: Subtle Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24198,
+      "name": "Design: Flashing Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24199,
+      "name": "Design: Solid Star of Elune",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24200,
+      "name": "Design: Sparkling Star of Elune",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24201,
+      "name": "Design: Lustrous Star of Elune",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24202,
+      "name": "Design: Stormy Star of Elune",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24203,
+      "name": "Design: Brilliant Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24204,
+      "name": "Design: Smooth Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24205,
+      "name": "Design: Rigid Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24206,
+      "name": "Design: Gleaming Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24207,
+      "name": "Design: Thick Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24209,
+      "name": "Design: Sovereign Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24210,
+      "name": "Design: Shifting Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24211,
+      "name": "Design: Glowing Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24212,
+      "name": "Design: Royal Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24213,
+      "name": "Design: Inscribed Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24214,
+      "name": "Design: Potent Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24215,
+      "name": "Design: Luminous Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24216,
+      "name": "Design: Glinting Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24217,
+      "name": "Design: Enduring Talasite",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24218,
+      "name": "Design: Radiant Talasite",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24219,
+      "name": "Design: Dazzling Talasite",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 24220,
+      "name": "Design: Jagged Talasite",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 25905,
+      "name": "Design: Tenacious Earthstorm Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 25906,
+      "name": "Design: Brutal Earthstorm Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 25907,
+      "name": "Design: Destructive Skyfire Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 25909,
+      "name": "Design: Mystical Skyfire Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 28291,
+      "name": "Design: Smooth Golden Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 28596,
+      "name": "Design: Bright Blood Garnet",
+      "Quality": 1,
+      "BuyPrice": 50000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31870,
+      "name": "Design: Great Golden Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31871,
+      "name": "Design: Balanced Shadow Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31872,
+      "name": "Design: Infused Shadow Draenite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31873,
+      "name": "Design: Veiled Flame Spessarite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31874,
+      "name": "Design: Wicked Flame Spessarite",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31875,
+      "name": "Design: Great Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31876,
+      "name": "Design: Balanced Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31877,
+      "name": "Design: Infused Nightseye",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31878,
+      "name": "Design: Veiled Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 31879,
+      "name": "Design: Wicked Noble Topaz",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32285,
+      "name": "Design: Flashing Crimson Spinel",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32289,
+      "name": "Design: Stormy Empyrean Sapphire",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32295,
+      "name": "Design: Mystic Lionseye",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32296,
+      "name": "Design: Great Lionseye",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32297,
+      "name": "Design: Sovereign Shadowsong Amethyst",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32298,
+      "name": "Design: Shifting Shadowsong Amethyst",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32303,
+      "name": "Design: Inscribed Pyrestone",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32307,
+      "name": "Design: Veiled Pyrestone",
+      "Quality": 4,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32411,
+      "name": "Design: Thundering Skyfire Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 32412,
+      "name": "Design: Relentless Earthstorm Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 34221,
+      "name": "Design: Chaotic Skyfire Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 80
+    },
+    {
+      "entry": 34689,
+      "name": "Design: Chaotic Skyfire Diamond",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35198,
+      "name": "Design: Loop of Forged Power",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35199,
+      "name": "Design: Ring of Flowing Life",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35200,
+      "name": "Design: Hard Khorium Band",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35201,
+      "name": "Design: Pendant of Sunfire",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35202,
+      "name": "Design: Amulet of Flowing Life",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35203,
+      "name": "Design: Hard Khorium Choker",
+      "Quality": 4,
+      "BuyPrice": 140000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35304,
+      "name": "Design: Solid Star of Elune",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35305,
+      "name": "Design: Runed Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35306,
+      "name": "Design: Bright Living Ruby",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35307,
+      "name": "Design: Rigid Dawnstone",
+      "Quality": 3,
+      "BuyPrice": 120000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35533,
+      "name": "Design: Amulet of Flowing Life",
+      "Quality": 4,
+      "BuyPrice": 35000000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41403,
+      "name": "ZZOLD Design: Insightful Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41404,
+      "name": "ZZOLD Design: Bracing Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41405,
+      "name": "ZZOLD Design: Eternal Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41406,
+      "name": "ZZOLD Design: Powerful Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41407,
+      "name": "ZZOLD Design: Relentless Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41408,
+      "name": "ZZOLD Design: Austere Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 33554432
+    },
+    {
+      "entry": 41409,
+      "name": "ZZOLD Design: Persistent Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41410,
+      "name": "ZZOLD Design: Trenchant Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41411,
+      "name": "ZZOLD Design: Invigorating Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41412,
+      "name": "ZZOLD Design: Beaming Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41413,
+      "name": "ZZOLD Design: Revitalizing Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41414,
+      "name": "ZZOLD Design: Effulgent Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41415,
+      "name": "ZZOLD Design: Tireless Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41416,
+      "name": "ZZOLD Design: Forlorn Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41417,
+      "name": "ZZOLD Design: Impassive Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41418,
+      "name": "ZZOLD Design: Chaotic Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41419,
+      "name": "ZZOLD Design: Destructive Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41420,
+      "name": "ZZOLD Design: Ember Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41421,
+      "name": "ZZOLD Design: Enigmatic Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41422,
+      "name": "ZZOLD Design: Swift Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41423,
+      "name": "ZZOLDDesign: Thundering Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 180000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41777,
+      "name": "Design: Etched Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41778,
+      "name": "Design: Resolute Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41779,
+      "name": "Design: Stalwart Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41780,
+      "name": "Design: Champion's Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41781,
+      "name": "Design: Misty Forest Emerald",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41782,
+      "name": "Design: Shining Forest Emerald",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41783,
+      "name": "Design: Purified Twilight Opal",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41784,
+      "name": "Design: Sovereign Twilight Opal",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41785,
+      "name": "Design: Tenuous Twilight Opal",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41786,
+      "name": "Design: Destructive Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 320000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41787,
+      "name": "Design: Thundering Skyflare Diamond",
+      "Quality": 3,
+      "BuyPrice": 320000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41788,
+      "name": "Design: Beaming Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 320000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41789,
+      "name": "Design: Inscribed Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41790,
+      "name": "Design: Precise Scarlet Ruby",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41791,
+      "name": "Design: Thick Autumn's Glow",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41792,
+      "name": "Design: Deft Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41793,
+      "name": "Design: Fierce Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41794,
+      "name": "Design: Deadly Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41795,
+      "name": "Design: Timeless Forest Emerald",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41796,
+      "name": "Design: Infused Twilight Opal",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41797,
+      "name": "Design: Austere Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41798,
+      "name": "Design: Bracing Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 33554496
+    },
+    {
+      "entry": 41799,
+      "name": "Design: Eternal Earthsiege Diamond",
+      "Quality": 3,
+      "BuyPrice": 160000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41817,
+      "name": "Design: Fractured Scarlet Ruby",
+      "Quality": 3,
+      "BuyPrice": 1600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41818,
+      "name": "Design: Accurate Monarch Topaz",
+      "Quality": 3,
+      "BuyPrice": 1600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41819,
+      "name": "Design: Radiant Forest Emerald",
+      "Quality": 3,
+      "BuyPrice": 1600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41820,
+      "name": "Design: Defender's Twilight Opal",
+      "Quality": 3,
+      "BuyPrice": 1600,
+      "item": null,
+      "Flags": 64
+    }
+  ]

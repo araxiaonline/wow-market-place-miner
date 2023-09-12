@@ -1,0 +1,28 @@
+{
+  "name": "wow-market-place-miner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/ts-node/dist/bin.js ./auction-prices.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "axios": "^1.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.1",
+    "@types/lodash.merge": "^4.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "github": "^14.0.0",
+    "lodash": "^4.17.21",
+    "lodash.merge": "^4.6.2",
+    "puppeteer": "^21.1.0",
+    "sleep-promise": "^9.1.0"
+  }
+}

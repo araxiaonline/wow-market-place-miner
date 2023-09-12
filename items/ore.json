@@ -1,0 +1,242 @@
+[
+  {
+    "entry": 2772,
+    "name": "Iron Ore",
+    "Quality": 1,
+    "BuyPrice": 600,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 2776,
+    "name": "Gold Ore",
+    "Quality": 2,
+    "BuyPrice": 2000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 2835,
+    "name": "Rough Stone",
+    "Quality": 1,
+    "BuyPrice": 8,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 2836,
+    "name": "Coarse Stone",
+    "Quality": 1,
+    "BuyPrice": 60,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 2838,
+    "name": "Heavy Stone",
+    "Quality": 1,
+    "BuyPrice": 240,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 3470,
+    "name": "Rough Grinding Stone",
+    "Quality": 1,
+    "BuyPrice": 20,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 3478,
+    "name": "Coarse Grinding Stone",
+    "Quality": 1,
+    "BuyPrice": 40,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 3486,
+    "name": "Heavy Grinding Stone",
+    "Quality": 1,
+    "BuyPrice": 400,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 3858,
+    "name": "Mithril Ore",
+    "Quality": 1,
+    "BuyPrice": 1000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 7911,
+    "name": "Truesilver Ore",
+    "Quality": 2,
+    "BuyPrice": 2000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 7912,
+    "name": "Solid Stone",
+    "Quality": 1,
+    "BuyPrice": 400,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 7966,
+    "name": "Solid Grinding Stone",
+    "Quality": 1,
+    "BuyPrice": 800,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 10620,
+    "name": "Thorium Ore",
+    "Quality": 1,
+    "BuyPrice": 1000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 11099,
+    "name": "Dark Iron Ore",
+    "Quality": 1,
+    "BuyPrice": 1000,
+    "item": null,
+    "Flags": 16
+  },
+  {
+    "entry": 11370,
+    "name": "Dark Iron Ore",
+    "Quality": 1,
+    "BuyPrice": 2000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 12365,
+    "name": "Dense Stone",
+    "Quality": 1,
+    "BuyPrice": 1000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 12644,
+    "name": "Dense Grinding Stone",
+    "Quality": 1,
+    "BuyPrice": 800,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 12809,
+    "name": "Guardian Stone",
+    "Quality": 2,
+    "BuyPrice": 40000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 17203,
+    "name": "Sulfuron Ingot",
+    "Quality": 4,
+    "BuyPrice": 400000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 18562,
+    "name": "Elementium Ore",
+    "Quality": 4,
+    "BuyPrice": 400000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 22202,
+    "name": "Small Obsidian Shard",
+    "Quality": 1,
+    "BuyPrice": 10000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 22203,
+    "name": "Large Obsidian Shard",
+    "Quality": 1,
+    "BuyPrice": 20000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 23424,
+    "name": "Fel Iron Ore",
+    "Quality": 1,
+    "BuyPrice": 4000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 23425,
+    "name": "Adamantite Ore",
+    "Quality": 1,
+    "BuyPrice": 6000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 23426,
+    "name": "Khorium Ore",
+    "Quality": 2,
+    "BuyPrice": 10000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 23427,
+    "name": "Eternium Ore",
+    "Quality": 2,
+    "BuyPrice": 5000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 35128,
+    "name": "Hardened Khorium",
+    "Quality": 2,
+    "BuyPrice": 45000,
+    "item": null,
+    "Flags": 0
+  },
+  {
+    "entry": 36909,
+    "name": "Cobalt Ore",
+    "Quality": 1,
+    "BuyPrice": 4000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 36910,
+    "name": "Titanium Ore",
+    "Quality": 2,
+    "BuyPrice": 5000,
+    "item": null,
+    "Flags": 262144
+  },
+  {
+    "entry": 36912,
+    "name": "Saronite Ore",
+    "Quality": 1,
+    "BuyPrice": 10000,
+    "item": null,
+    "Flags": 262144
+  }
+]

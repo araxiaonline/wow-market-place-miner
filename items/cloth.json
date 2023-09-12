@@ -1,0 +1,186 @@
+[
+    {
+      "entry": 2589,
+      "name": "Linen Cloth",
+      "Quality": 1,
+      "BuyPrice": 55,
+      "item": 2589,
+      "Flags": 0
+    },
+    {
+      "entry": 2592,
+      "name": "Wool Cloth",
+      "Quality": 1,
+      "BuyPrice": 135,
+      "item": 2592,
+      "Flags": 0
+    },
+    {
+      "entry": 4306,
+      "name": "Silk Cloth",
+      "Quality": 1,
+      "BuyPrice": 600,
+      "item": 4306,
+      "Flags": 0
+    },
+    {
+      "entry": 4338,
+      "name": "Mageweave Cloth",
+      "Quality": 1,
+      "BuyPrice": 1000,
+      "item": 4338,
+      "Flags": 0
+    },
+    {
+      "entry": 14256,
+      "name": "Felcloth",
+      "Quality": 1,
+      "BuyPrice": 8000,
+      "item": 14256,
+      "Flags": 0
+    },
+    {
+      "entry": 3182,
+      "name": "Spider's Silk",
+      "Quality": 1,
+      "BuyPrice": 1550,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 4337,
+      "name": "Thick Spider's Silk",
+      "Quality": 1,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 10285,
+      "name": "Shadow Silk",
+      "Quality": 1,
+      "BuyPrice": 4000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 14047,
+      "name": "Runecloth",
+      "Quality": 1,
+      "BuyPrice": 1600,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 14227,
+      "name": "Ironweb Spider Silk",
+      "Quality": 1,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 14342,
+      "name": "Mooncloth",
+      "Quality": 1,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 21845,
+      "name": "Primal Mooncloth",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 21877,
+      "name": "Netherweave Cloth",
+      "Quality": 1,
+      "BuyPrice": 3200,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 21881,
+      "name": "Netherweb Spider Silk",
+      "Quality": 1,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 23854,
+      "name": "Shadoweave Cloth",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 23855,
+      "name": "Spellfire Cloth",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 24271,
+      "name": "Spellcloth",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 24272,
+      "name": "Shadowcloth",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 33470,
+      "name": "Frostweave Cloth",
+      "Quality": 1,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 41593,
+      "name": "Ebonweave",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 41594,
+      "name": "Moonshroud",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 41595,
+      "name": "Spellweave",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    },
+    {
+      "entry": 42253,
+      "name": "Iceweb Spider Silk",
+      "Quality": 1,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 0
+    }
+  ]

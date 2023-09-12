@@ -1,0 +1,1130 @@
+[
+    {
+      "entry": 2881,
+      "name": "Plans: Runed Copper Breastplate",
+      "Quality": 2,
+      "BuyPrice": 600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 2882,
+      "name": "Plans: Silvered Bronze Shoulders",
+      "Quality": 2,
+      "BuyPrice": 1200,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 2883,
+      "name": "Plans: Deadly Bronze Poniard",
+      "Quality": 2,
+      "BuyPrice": 1500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3608,
+      "name": "Plans: Mighty Iron Hammer",
+      "Quality": 2,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3609,
+      "name": "Plans: Copper Chain Vest",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3610,
+      "name": "Plans: Gemmed Copper Gauntlets",
+      "Quality": 2,
+      "BuyPrice": 200,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3611,
+      "name": "Plans: Green Iron Boots",
+      "Quality": 2,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3612,
+      "name": "Plans: Green Iron Gauntlets",
+      "Quality": 2,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3866,
+      "name": "Plans: Jade Serpentblade",
+      "Quality": 2,
+      "BuyPrice": 4000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3867,
+      "name": "Plans: Golden Iron Destroyer",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3868,
+      "name": "Plans: Frost Tiger Blade",
+      "Quality": 2,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3869,
+      "name": "Plans: Shadow Crescent Axe",
+      "Quality": 2,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3870,
+      "name": "Plans: Green Iron Shoulders",
+      "Quality": 2,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3871,
+      "name": "Plans: Golden Scale Shoulders",
+      "Quality": 3,
+      "BuyPrice": 3400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3872,
+      "name": "Plans: Golden Scale Leggings",
+      "Quality": 2,
+      "BuyPrice": 3200,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3873,
+      "name": "Plans: Golden Scale Cuirass",
+      "Quality": 2,
+      "BuyPrice": 4400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3874,
+      "name": "Plans: Polished Steel Boots",
+      "Quality": 2,
+      "BuyPrice": 4400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 3875,
+      "name": "Plans: Golden Scale Boots",
+      "Quality": 3,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 5543,
+      "name": "Plans: Iridescent Hammer",
+      "Quality": 2,
+      "BuyPrice": 1800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 5577,
+      "name": "Plans: Rough Bronze Bracers",
+      "Quality": 2,
+      "BuyPrice": 1200,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 5578,
+      "name": "Plans: Silvered Bronze Breastplate",
+      "Quality": 2,
+      "BuyPrice": 1200,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6044,
+      "name": "Plans: Iron Shield Spike",
+      "Quality": 2,
+      "BuyPrice": 1800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6045,
+      "name": "Plans: Iron Counterweight",
+      "Quality": 2,
+      "BuyPrice": 2600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6046,
+      "name": "Plans: Steel Weapon Chain",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6734,
+      "name": "Plans: Ironforge Chain",
+      "Quality": 2,
+      "BuyPrice": 250,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6735,
+      "name": "Plans: Ironforge Breastplate",
+      "Quality": 2,
+      "BuyPrice": 600,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 6736,
+      "name": "Plans: Ironforge Gauntlets",
+      "Quality": 2,
+      "BuyPrice": 1800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7975,
+      "name": "Plans: Heavy Mithril Pants",
+      "Quality": 2,
+      "BuyPrice": 6000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7976,
+      "name": "Plans: Mithril Shield Spike",
+      "Quality": 3,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7977,
+      "name": "Plans: Mithril Scale Gloves",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7978,
+      "name": "Plans: Barbaric Iron Shoulders",
+      "Quality": 2,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7979,
+      "name": "Plans: Barbaric Iron Breastplate",
+      "Quality": 2,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7980,
+      "name": "Plans: Barbaric Iron Helm",
+      "Quality": 2,
+      "BuyPrice": 3400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7981,
+      "name": "Plans: Barbaric Iron Boots",
+      "Quality": 2,
+      "BuyPrice": 4400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7982,
+      "name": "Plans: Barbaric Iron Gloves",
+      "Quality": 2,
+      "BuyPrice": 4400,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7983,
+      "name": "Plans: Ornate Mithril Pants",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7984,
+      "name": "Plans: Ornate Mithril Gloves",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7985,
+      "name": "Plans: Ornate Mithril Shoulder",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7986,
+      "name": "Plans: Ornate Mithril Breastplate",
+      "Quality": 2,
+      "BuyPrice": 2500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7987,
+      "name": "Plans: Ornate Mithril Helm",
+      "Quality": 2,
+      "BuyPrice": 2500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7988,
+      "name": "Plans: Ornate Mithril Boots",
+      "Quality": 2,
+      "BuyPrice": 2500,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7989,
+      "name": "Plans: Mithril Spurs",
+      "Quality": 2,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7990,
+      "name": "Plans: Heavy Mithril Helm",
+      "Quality": 2,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7991,
+      "name": "Plans: Mithril Scale Shoulders",
+      "Quality": 3,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7992,
+      "name": "Plans: Blue Glittering Axe",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7993,
+      "name": "Plans: Dazzling Mithril Rapier",
+      "Quality": 2,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 7994,
+      "name": "Plans: Orcish War Leggings",
+      "Quality": 2,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 8028,
+      "name": "Plans: Runed Mithril Hammer",
+      "Quality": 3,
+      "BuyPrice": 10000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 8029,
+      "name": "Plans: Wicked Mithril Blade",
+      "Quality": 2,
+      "BuyPrice": 8000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 9367,
+      "name": "Plans: Golden Scale Gauntlets",
+      "Quality": 2,
+      "BuyPrice": 5000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 10424,
+      "name": "Plans: Silvered Bronze Leggings",
+      "Quality": 2,
+      "BuyPrice": 3000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 10713,
+      "name": "Plans: Inlaid Mithril Cylinder",
+      "Quality": 1,
+      "BuyPrice": 2000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 11610,
+      "name": "Plans: Dark Iron Pulverizer",
+      "Quality": 3,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 11611,
+      "name": "Plans: Dark Iron Sunderer",
+      "Quality": 3,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 11612,
+      "name": "Plans: Dark Iron Plate",
+      "Quality": 3,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 11614,
+      "name": "Plans: Dark Iron Mail",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 11615,
+      "name": "Plans: Dark Iron Shoulders",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12261,
+      "name": "Plans: Searing Golden Blade",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12682,
+      "name": "Plans: Thorium Armor",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12683,
+      "name": "Plans: Thorium Belt",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12684,
+      "name": "Plans: Thorium Bracers",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12685,
+      "name": "Plans: Radiant Belt",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12687,
+      "name": "Plans: Imperial Plate Shoulders",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12688,
+      "name": "Plans: Imperial Plate Belt",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12689,
+      "name": "Plans: Radiant Breastplate",
+      "Quality": 2,
+      "BuyPrice": 14000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12690,
+      "name": "Plans: Imperial Plate Bracers",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12691,
+      "name": "Plans: Wildthorn Mail",
+      "Quality": 2,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12692,
+      "name": "Plans: Thorium Shield Spike",
+      "Quality": 2,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12693,
+      "name": "Plans: Thorium Boots",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12694,
+      "name": "Plans: Thorium Helm",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12695,
+      "name": "Plans: Radiant Gloves",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12696,
+      "name": "Plans: Demon Forged Breastplate",
+      "Quality": 3,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12697,
+      "name": "Plans: Radiant Boots",
+      "Quality": 2,
+      "BuyPrice": 22000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12698,
+      "name": "Plans: Dawnbringer Shoulders",
+      "Quality": 3,
+      "BuyPrice": 22000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12699,
+      "name": "Plans: Fiery Plate Gauntlets",
+      "Quality": 3,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12700,
+      "name": "Plans: Imperial Plate Boots",
+      "Quality": 2,
+      "BuyPrice": 25000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12701,
+      "name": "Plans: Imperial Plate Helm",
+      "Quality": 2,
+      "BuyPrice": 25000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12702,
+      "name": "Plans: Radiant Circlet",
+      "Quality": 2,
+      "BuyPrice": 25000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12704,
+      "name": "Plans: Thorium Leggings",
+      "Quality": 2,
+      "BuyPrice": 30000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12705,
+      "name": "Plans: Imperial Plate Chest",
+      "Quality": 2,
+      "BuyPrice": 30000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12706,
+      "name": "Plans: Runic Plate Shoulders",
+      "Quality": 2,
+      "BuyPrice": 30000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12707,
+      "name": "Plans: Runic Plate Boots",
+      "Quality": 2,
+      "BuyPrice": 30000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12711,
+      "name": "Plans: Whitesoul Helm",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12713,
+      "name": "Plans: Radiant Leggings",
+      "Quality": 2,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12714,
+      "name": "Plans: Runic Plate Helm",
+      "Quality": 2,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12715,
+      "name": "Plans: Imperial Plate Leggings",
+      "Quality": 2,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12716,
+      "name": "Plans: Helm of the Great Chief",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12718,
+      "name": "Plans: Runic Breastplate",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12719,
+      "name": "Plans: Runic Plate Leggings",
+      "Quality": 2,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12725,
+      "name": "Plans: Enchanted Thorium Helm",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12726,
+      "name": "Plans: Enchanted Thorium Leggings",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12727,
+      "name": "Plans: Enchanted Thorium Breastplate",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12816,
+      "name": "Plans: Thorium Greatsword",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12817,
+      "name": "Plans: Bleakwood Hew",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12818,
+      "name": "Plans: Inlaid Thorium Hammer",
+      "Quality": 2,
+      "BuyPrice": 12000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12821,
+      "name": "Plans: Dawn's Edge",
+      "Quality": 3,
+      "BuyPrice": 16000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12824,
+      "name": "Plans: Enchanted Battlehammer",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12825,
+      "name": "Plans: Blazing Rapier",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12826,
+      "name": "Plans: Rune Edge",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12827,
+      "name": "Plans: Serenity",
+      "Quality": 2,
+      "BuyPrice": 20000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12828,
+      "name": "Plans: Volcanic Hammer",
+      "Quality": 2,
+      "BuyPrice": 22000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12830,
+      "name": "Plans: Corruption",
+      "Quality": 1,
+      "BuyPrice": 22000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12831,
+      "name": "Plans: Blood Talon",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12832,
+      "name": "Plans: Darkspear",
+      "Quality": 3,
+      "BuyPrice": 40000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12833,
+      "name": "Plans: Hammer of the Titans",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12834,
+      "name": "Plans: Arcanite Champion",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12835,
+      "name": "Plans: Annihilator",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12836,
+      "name": "Plans: Frostguard",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12837,
+      "name": "Plans: Masterwork Stormhammer",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12838,
+      "name": "Plans: Arcanite Reaper",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 12839,
+      "name": "Plans: Heartseeker",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 17706,
+      "name": "Plans: Edge of Winter",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 18264,
+      "name": "Plans: Elemental Sharpening Stone",
+      "Quality": 3,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 20553,
+      "name": "Plans: Darkrune Gauntlets",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 20554,
+      "name": "Plans: Darkrune Breastplate",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 20555,
+      "name": "Plans: Darkrune Helm",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 22220,
+      "name": "Plans: Black Grasp of the Destroyer",
+      "Quality": 3,
+      "BuyPrice": 50000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 22222,
+      "name": "Plans: Thick Obsidian Breastplate",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 22703,
+      "name": "Plans: Icebane Breastplate",
+      "Quality": 1,
+      "BuyPrice": 150000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 22704,
+      "name": "Plans: Icebane Gauntlets",
+      "Quality": 1,
+      "BuyPrice": 150000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 22705,
+      "name": "Plans: Icebane Bracers",
+      "Quality": 1,
+      "BuyPrice": 150000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23605,
+      "name": "Plans: Felsteel Gloves",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23606,
+      "name": "Plans: Felsteel Leggings",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23607,
+      "name": "Plans: Felsteel Helm",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23608,
+      "name": "Plans: Khorium Belt",
+      "Quality": 3,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23609,
+      "name": "Plans: Khorium Pants",
+      "Quality": 3,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23610,
+      "name": "Plans: Khorium Boots",
+      "Quality": 3,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23611,
+      "name": "Plans: Ragesteel Gloves",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23612,
+      "name": "Plans: Ragesteel Helm",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23613,
+      "name": "Plans: Ragesteel Breastplate",
+      "Quality": 3,
+      "BuyPrice": 100000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23615,
+      "name": "Plans: Swiftsteel Gloves",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23617,
+      "name": "Plans: Earthpeace Breastplate",
+      "Quality": 3,
+      "BuyPrice": 60000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 23639,
+      "name": "Plans: Greater Ward of Shielding",
+      "Quality": 3,
+      "BuyPrice": 300000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 33174,
+      "name": "Plans: Ragesteel Shoulders",
+      "Quality": 3,
+      "BuyPrice": 80000,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 33186,
+      "name": "Plans: Adamantite Weapon Chain",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 33792,
+      "name": "Plans: Heavy Copper Longsword",
+      "Quality": 2,
+      "BuyPrice": 100,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 35296,
+      "name": "Plans: Adamantite Weapon Chain",
+      "Quality": 2,
+      "BuyPrice": 3800,
+      "item": null,
+      "Flags": 64
+    },
+    {
+      "entry": 41120,
+      "name": "Plans: Reinforced Cobalt Legplates",
+      "Quality": 2,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 33554496
+    },
+    {
+      "entry": 41122,
+      "name": "Plans: Reinforced Cobalt Chestpiece",
+      "Quality": 2,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 33554496
+    },
+    {
+      "entry": 41123,
+      "name": "Plans: Reinforced Cobalt Helm",
+      "Quality": 2,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 33554496
+    },
+    {
+      "entry": 41124,
+      "name": "Plans: Reinforced Cobalt Shoulders",
+      "Quality": 2,
+      "BuyPrice": 240000,
+      "item": null,
+      "Flags": 33554496
+    }
+  ]

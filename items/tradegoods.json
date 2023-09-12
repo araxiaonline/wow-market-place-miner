@@ -1,0 +1,1936 @@
+[
+    {
+        "entry": 3182,
+        "name": "Spider's Silk",
+        "Quality": 1,
+        "BuyPrice": 1550,
+        "item": null
+      },
+      {
+        "entry": 4337,
+        "name": "Thick Spider's Silk",
+        "Quality": 1,
+        "BuyPrice": 3000,
+        "item": null
+      },
+      {
+        "entry": 10285,
+        "name": "Shadow Silk",
+        "Quality": 1,
+        "BuyPrice": 4000,
+        "item": null
+      },
+      {
+        "entry": 14047,
+        "name": "Runecloth",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null
+      },
+      {
+        "entry": 14227,
+        "name": "Ironweb Spider Silk",
+        "Quality": 1,
+        "BuyPrice": 10000,
+        "item": null
+      },
+      {
+        "entry": 14342,
+        "name": "Mooncloth",
+        "Quality": 1,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 21845,
+        "name": "Primal Mooncloth",
+        "Quality": 3,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 21877,
+        "name": "Netherweave Cloth",
+        "Quality": 1,
+        "BuyPrice": 3200,
+        "item": null
+      },
+      {
+        "entry": 21881,
+        "name": "Netherweb Spider Silk",
+        "Quality": 1,
+        "BuyPrice": 20000,
+        "item": null
+      },
+      {
+        "entry": 23854,
+        "name": "Shadoweave Cloth",
+        "Quality": 3,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 23855,
+        "name": "Spellfire Cloth",
+        "Quality": 3,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 24271,
+        "name": "Spellcloth",
+        "Quality": 3,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 24272,
+        "name": "Shadowcloth",
+        "Quality": 3,
+        "BuyPrice": 16000,
+        "item": null
+      },
+      {
+        "entry": 33470,
+        "name": "Frostweave Cloth",
+        "Quality": 1,
+        "BuyPrice": 5000,
+        "item": null
+      },
+      {
+        "entry": 41593,
+        "name": "Ebonweave",
+        "Quality": 3,
+        "BuyPrice": 40000,
+        "item": null
+      },
+      {
+        "entry": 41594,
+        "name": "Moonshroud",
+        "Quality": 3,
+        "BuyPrice": 40000,
+        "item": null
+      },
+      {
+        "entry": 41595,
+        "name": "Spellweave",
+        "Quality": 3,
+        "BuyPrice": 40000,
+        "item": null
+      },
+      {
+        "entry": 42253,
+        "name": "Iceweb Spider Silk",
+        "Quality": 1,
+        "BuyPrice": 40000,
+        "item": null
+      },
+      {
+        "entry": 731,
+        "name": "Goretusk Snout",
+        "Quality": 1,
+        "BuyPrice": 110,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 769,
+        "name": "Chunk of Boar Meat",
+        "Quality": 1,
+        "BuyPrice": 15,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1015,
+        "name": "Lean Wolf Flank",
+        "Quality": 1,
+        "BuyPrice": 96,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1080,
+        "name": "Tough Condor Meat",
+        "Quality": 1,
+        "BuyPrice": 315,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1081,
+        "name": "Crisp Spider Meat",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1468,
+        "name": "Murloc Fin",
+        "Quality": 1,
+        "BuyPrice": 115,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2251,
+        "name": "Gooey Spider Leg",
+        "Quality": 1,
+        "BuyPrice": 48,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2296,
+        "name": "Great Goretusk Snout",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2672,
+        "name": "Stringy Wolf Meat",
+        "Quality": 1,
+        "BuyPrice": 16,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2673,
+        "name": "Coyote Meat",
+        "Quality": 1,
+        "BuyPrice": 40,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2674,
+        "name": "Crawler Meat",
+        "Quality": 1,
+        "BuyPrice": 48,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2675,
+        "name": "Crawler Claw",
+        "Quality": 1,
+        "BuyPrice": 44,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2677,
+        "name": "Boar Ribs",
+        "Quality": 1,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2886,
+        "name": "Crag Boar Rib",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2924,
+        "name": "Crocolisk Meat",
+        "Quality": 1,
+        "BuyPrice": 65,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3173,
+        "name": "Bear Meat",
+        "Quality": 1,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3174,
+        "name": "Spider Ichor",
+        "Quality": 1,
+        "BuyPrice": 65,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3404,
+        "name": "Buzzard Wing",
+        "Quality": 1,
+        "BuyPrice": 725,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3667,
+        "name": "Tender Crocolisk Meat",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3685,
+        "name": "Raptor Egg",
+        "Quality": 1,
+        "BuyPrice": 285,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3712,
+        "name": "Turtle Meat",
+        "Quality": 1,
+        "BuyPrice": 350,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3730,
+        "name": "Big Bear Meat",
+        "Quality": 1,
+        "BuyPrice": 180,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3731,
+        "name": "Lion Meat",
+        "Quality": 1,
+        "BuyPrice": 220,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4603,
+        "name": "Raw Spotted Yellowtail",
+        "Quality": 1,
+        "BuyPrice": 80,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4655,
+        "name": "Giant Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 285,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5465,
+        "name": "Small Spider Leg",
+        "Quality": 1,
+        "BuyPrice": 12,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5466,
+        "name": "Scorpid Stinger",
+        "Quality": 1,
+        "BuyPrice": 32,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5467,
+        "name": "Kodo Meat",
+        "Quality": 1,
+        "BuyPrice": 30,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5468,
+        "name": "Soft Frenzy Flesh",
+        "Quality": 1,
+        "BuyPrice": 48,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5469,
+        "name": "Strider Meat",
+        "Quality": 1,
+        "BuyPrice": 36,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5470,
+        "name": "Thunder Lizard Tail",
+        "Quality": 1,
+        "BuyPrice": 115,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5471,
+        "name": "Stag Meat",
+        "Quality": 1,
+        "BuyPrice": 120,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5503,
+        "name": "Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 65,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5504,
+        "name": "Tangy Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 90,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6289,
+        "name": "Raw Longjaw Mud Snapper",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6291,
+        "name": "Raw Brilliant Smallfish",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6303,
+        "name": "Raw Slitherskin Mackerel",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6308,
+        "name": "Raw Bristle Whisker Catfish",
+        "Quality": 1,
+        "BuyPrice": 40,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6317,
+        "name": "Raw Loch Frenzy",
+        "Quality": 1,
+        "BuyPrice": 40,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6361,
+        "name": "Raw Rainbow Fin Albacore",
+        "Quality": 1,
+        "BuyPrice": 40,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6362,
+        "name": "Raw Rockscale Cod",
+        "Quality": 1,
+        "BuyPrice": 80,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6889,
+        "name": "Small Egg",
+        "Quality": 1,
+        "BuyPrice": 16,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7974,
+        "name": "Zesty Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8365,
+        "name": "Raw Mithril Head Trout",
+        "Quality": 1,
+        "BuyPrice": 80,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8959,
+        "name": "Raw Spinefin Halibut",
+        "Quality": 1,
+        "BuyPrice": 3200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12184,
+        "name": "Raptor Flesh",
+        "Quality": 1,
+        "BuyPrice": 350,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12202,
+        "name": "Tiger Meat",
+        "Quality": 1,
+        "BuyPrice": 350,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12203,
+        "name": "Red Wolf Meat",
+        "Quality": 1,
+        "BuyPrice": 350,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12204,
+        "name": "Heavy Kodo Meat",
+        "Quality": 1,
+        "BuyPrice": 450,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12205,
+        "name": "White Spider Meat",
+        "Quality": 1,
+        "BuyPrice": 450,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12206,
+        "name": "Tender Crab Meat",
+        "Quality": 1,
+        "BuyPrice": 450,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12207,
+        "name": "Giant Egg",
+        "Quality": 1,
+        "BuyPrice": 600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12208,
+        "name": "Tender Wolf Meat",
+        "Quality": 1,
+        "BuyPrice": 600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12223,
+        "name": "Meaty Bat Wing",
+        "Quality": 1,
+        "BuyPrice": 16,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13754,
+        "name": "Raw Glossy Mightfish",
+        "Quality": 1,
+        "BuyPrice": 120,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13756,
+        "name": "Raw Summer Bass",
+        "Quality": 1,
+        "BuyPrice": 180,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13758,
+        "name": "Raw Redgill",
+        "Quality": 1,
+        "BuyPrice": 80,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13759,
+        "name": "Raw Nightfin Snapper",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13760,
+        "name": "Raw Sunscale Salmon",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13888,
+        "name": "Darkclaw Lobster",
+        "Quality": 1,
+        "BuyPrice": 240,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13889,
+        "name": "Raw Whitescale Salmon",
+        "Quality": 1,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13890,
+        "name": "Plated Armorfish",
+        "Quality": 1,
+        "BuyPrice": 1400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 20424,
+        "name": "Sandworm Meat",
+        "Quality": 1,
+        "BuyPrice": 700,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 21071,
+        "name": "Raw Sagefish",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 21153,
+        "name": "Raw Greater Sagefish",
+        "Quality": 1,
+        "BuyPrice": 500,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22644,
+        "name": "Crunchy Spider Leg",
+        "Quality": 1,
+        "BuyPrice": 48,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 23676,
+        "name": "Moongraze Stag Tenderloin",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 24477,
+        "name": "Jaggal Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27422,
+        "name": "Barbed Gill Trout",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27425,
+        "name": "Spotted Feltail",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27429,
+        "name": "Zangarian Sporefish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27435,
+        "name": "Figluster's Mudfish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27437,
+        "name": "Icefin Bluefish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27438,
+        "name": "Golden Darter",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27439,
+        "name": "Furious Crawdad",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27515,
+        "name": "Huge Spotted Feltail",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27516,
+        "name": "Enormous Barbed Gill Trout",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27668,
+        "name": "Lynx Meat",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27669,
+        "name": "Bat Flesh",
+        "Quality": 1,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27671,
+        "name": "Buzzard Meat",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27674,
+        "name": "Ravager Flesh",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27676,
+        "name": "Strange Spores",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27677,
+        "name": "Chunk o' Basilisk",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27678,
+        "name": "Clefthoof Meat",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27681,
+        "name": "Warped Flesh",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 27682,
+        "name": "Talbuk Venison",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 31670,
+        "name": "Raptor Ribs",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 31671,
+        "name": "Serpent Flesh",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 33823,
+        "name": "Bloodfin Catfish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 33824,
+        "name": "Crescent-Tail Skullfish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 34736,
+        "name": "Chunk o' Mammoth",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 35285,
+        "name": "Giant Sunfish",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 35562,
+        "name": "Bear Flank",
+        "Quality": 1,
+        "BuyPrice": 150,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 36782,
+        "name": "Succulent Clam Meat",
+        "Quality": 1,
+        "BuyPrice": 600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 38270,
+        "name": "Slab of Blubber",
+        "Quality": 1,
+        "BuyPrice": 2500,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 38271,
+        "name": "Lean Flank",
+        "Quality": 1,
+        "BuyPrice": 2500,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 38272,
+        "name": "Bloody Giblets",
+        "Quality": 1,
+        "BuyPrice": 2500,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 38625,
+        "name": "Northern Icelip",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 39526,
+        "name": "Coral Crusher",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41800,
+        "name": "Deep Sea Monsterbelly",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41801,
+        "name": "Moonglow Cuttlefish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41802,
+        "name": "Imperial Manta Ray",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41803,
+        "name": "Rockfin Grouper",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41804,
+        "name": "Icemouth Waveskipper",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41805,
+        "name": "Borean Man O' War",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41806,
+        "name": "Musselback Sculpin",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41807,
+        "name": "Dragonfin Angelfish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41808,
+        "name": "Bonescale Snapper",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41809,
+        "name": "Glacial Salmon",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41810,
+        "name": "Fangtooth Herring",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41811,
+        "name": "Meltwater Beardfish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41812,
+        "name": "Barrelhead Goby",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41813,
+        "name": "Nettlefish",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 41814,
+        "name": "Glassfin Minnow",
+        "Quality": 1,
+        "BuyPrice": 160,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43009,
+        "name": "Shoveltusk Flank",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43010,
+        "name": "Worm Meat",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43011,
+        "name": "Worg Haunch",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43012,
+        "name": "Rhino Meat",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43013,
+        "name": "Chilled Meat",
+        "Quality": 1,
+        "BuyPrice": 600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43501,
+        "name": "Northern Egg",
+        "Quality": 1,
+        "BuyPrice": 6000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43571,
+        "name": "Sewer Carp",
+        "Quality": 1,
+        "BuyPrice": 250,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43572,
+        "name": "Magic Eater",
+        "Quality": 1,
+        "BuyPrice": 250,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43646,
+        "name": "Fountain Goldfish",
+        "Quality": 1,
+        "BuyPrice": 250,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43647,
+        "name": "Shimmering Minnow",
+        "Quality": 1,
+        "BuyPrice": 250,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 43652,
+        "name": "Slippery Eel",
+        "Quality": 1,
+        "BuyPrice": 250,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 44834,
+        "name": "Wild Turkey",
+        "Quality": 1,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 65536
+      },
+      {
+        "entry": 44856,
+        "name": "Turkey Parts",
+        "Quality": 1,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 66624
+      },
+      {
+        "entry": 7067,
+        "name": "Elemental Earth",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7068,
+        "name": "Elemental Fire",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7069,
+        "name": "Elemental Air",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7070,
+        "name": "Elemental Water",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7075,
+        "name": "Core of Earth",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7076,
+        "name": "Essence of Earth",
+        "Quality": 2,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7077,
+        "name": "Heart of Fire",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7078,
+        "name": "Essence of Fire",
+        "Quality": 2,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7079,
+        "name": "Globe of Water",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7080,
+        "name": "Essence of Water",
+        "Quality": 2,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7081,
+        "name": "Breath of Wind",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7082,
+        "name": "Essence of Air",
+        "Quality": 2,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7972,
+        "name": "Ichor of Undeath",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 10286,
+        "name": "Heart of the Wild",
+        "Quality": 1,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12803,
+        "name": "Living Essence",
+        "Quality": 2,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12808,
+        "name": "Essence of Undeath",
+        "Quality": 2,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 21884,
+        "name": "Primal Fire",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 21885,
+        "name": "Primal Water",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 21886,
+        "name": "Primal Life",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22451,
+        "name": "Primal Air",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22452,
+        "name": "Primal Earth",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22456,
+        "name": "Primal Shadow",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22457,
+        "name": "Primal Mana",
+        "Quality": 2,
+        "BuyPrice": 16000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 23571,
+        "name": "Primal Might",
+        "Quality": 3,
+        "BuyPrice": 64000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 34055,
+        "name": "Greater Cosmic Essence",
+        "Quality": 2,
+        "BuyPrice": 120000,
+        "item": null,
+        "Flags": 1024
+      },
+      {
+        "entry": 40248,
+        "name": "Eternal Might",
+        "Quality": 3,
+        "BuyPrice": 64000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 774,
+        "name": "Malachite",
+        "Quality": 2,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 818,
+        "name": "Tigerseye",
+        "Quality": 2,
+        "BuyPrice": 400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1206,
+        "name": "Moss Agate",
+        "Quality": 2,
+        "BuyPrice": 1600,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1210,
+        "name": "Shadowgem",
+        "Quality": 2,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1529,
+        "name": "Jade",
+        "Quality": 2,
+        "BuyPrice": 2800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 1705,
+        "name": "Lesser Moonstone",
+        "Quality": 2,
+        "BuyPrice": 2400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 3864,
+        "name": "Citrine",
+        "Quality": 2,
+        "BuyPrice": 3200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5498,
+        "name": "Small Lustrous Pearl",
+        "Quality": 2,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5500,
+        "name": "Iridescent Pearl",
+        "Quality": 2,
+        "BuyPrice": 3000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7909,
+        "name": "Aquamarine",
+        "Quality": 2,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7910,
+        "name": "Star Ruby",
+        "Quality": 2,
+        "BuyPrice": 20000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7971,
+        "name": "Black Pearl",
+        "Quality": 2,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 11382,
+        "name": "Blood of the Mountain",
+        "Quality": 2,
+        "BuyPrice": 3000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12361,
+        "name": "Blue Sapphire",
+        "Quality": 2,
+        "BuyPrice": 28000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12363,
+        "name": "Arcane Crystal",
+        "Quality": 2,
+        "BuyPrice": 8000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12364,
+        "name": "Huge Emerald",
+        "Quality": 2,
+        "BuyPrice": 40000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12799,
+        "name": "Large Opal",
+        "Quality": 2,
+        "BuyPrice": 28000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 12800,
+        "name": "Azerothian Diamond",
+        "Quality": 2,
+        "BuyPrice": 40000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 13926,
+        "name": "Golden Pearl",
+        "Quality": 2,
+        "BuyPrice": 40000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 19774,
+        "name": "Souldarite",
+        "Quality": 2,
+        "BuyPrice": 20000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 24478,
+        "name": "Jaggal Pearl",
+        "Quality": 2,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 24479,
+        "name": "Shadow Pearl",
+        "Quality": 2,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 2450,
+        "name": "Briarthorn",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 2452,
+        "name": "Swiftthistle",
+        "Quality": 1,
+        "BuyPrice": 60,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 3369,
+        "name": "Grave Moss",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 3818,
+        "name": "Fadeleaf",
+        "Quality": 1,
+        "BuyPrice": 500,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 3819,
+        "name": "Wintersbite",
+        "Quality": 1,
+        "BuyPrice": 400,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 3820,
+        "name": "Stranglekelp",
+        "Quality": 1,
+        "BuyPrice": 400,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 3821,
+        "name": "Goldthorn",
+        "Quality": 1,
+        "BuyPrice": 600,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 4625,
+        "name": "Firebloom",
+        "Quality": 1,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 8153,
+        "name": "Wildvine",
+        "Quality": 2,
+        "BuyPrice": 20,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8831,
+        "name": "Purple Lotus",
+        "Quality": 1,
+        "BuyPrice": 1200,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 8836,
+        "name": "Arthas' Tears",
+        "Quality": 1,
+        "BuyPrice": 380,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 8838,
+        "name": "Sungrass",
+        "Quality": 1,
+        "BuyPrice": 240,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 8839,
+        "name": "Blindweed",
+        "Quality": 1,
+        "BuyPrice": 1500,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 13466,
+        "name": "Plaguebloom",
+        "Quality": 1,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 536870912
+      },
+      {
+        "entry": 19726,
+        "name": "Bloodvine",
+        "Quality": 2,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 19727,
+        "name": "Blood Scythe",
+        "Quality": 3,
+        "BuyPrice": 60000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22710,
+        "name": "Bloodthistle",
+        "Quality": 1,
+        "BuyPrice": 120,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 22788,
+        "name": "Flame Cap",
+        "Quality": 1,
+        "BuyPrice": 3000,
+        "item": null,
+        "Flags": 64
+      },
+      {
+        "entry": 22797,
+        "name": "Nightmare Seed",
+        "Quality": 1,
+        "BuyPrice": 5000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 783,
+        "name": "Light Hide",
+        "Quality": 1,
+        "BuyPrice": 200,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4231,
+        "name": "Cured Light Hide",
+        "Quality": 1,
+        "BuyPrice": 440,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4232,
+        "name": "Medium Hide",
+        "Quality": 1,
+        "BuyPrice": 500,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4233,
+        "name": "Cured Medium Hide",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4235,
+        "name": "Heavy Hide",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4236,
+        "name": "Cured Heavy Hide",
+        "Quality": 1,
+        "BuyPrice": 900,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 4461,
+        "name": "Raptor Hide",
+        "Quality": 1,
+        "BuyPrice": 835,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5082,
+        "name": "Thin Kodo Leather",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5784,
+        "name": "Slimy Murloc Scale",
+        "Quality": 1,
+        "BuyPrice": 300,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 5785,
+        "name": "Thick Murloc Scale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6470,
+        "name": "Deviate Scale",
+        "Quality": 1,
+        "BuyPrice": 80,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 6471,
+        "name": "Perfect Deviate Scale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7286,
+        "name": "Black Whelp Scale",
+        "Quality": 1,
+        "BuyPrice": 100,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 7392,
+        "name": "Green Whelp Scale",
+        "Quality": 1,
+        "BuyPrice": 800,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8150,
+        "name": "Deeprock Salt",
+        "Quality": 1,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8154,
+        "name": "Scorpid Scale",
+        "Quality": 1,
+        "BuyPrice": 1000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8165,
+        "name": "Worn Dragonscale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8167,
+        "name": "Turtle Scale",
+        "Quality": 1,
+        "BuyPrice": 400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8169,
+        "name": "Thick Hide",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8171,
+        "name": "Rugged Hide",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 8172,
+        "name": "Cured Thick Hide",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15407,
+        "name": "Cured Rugged Hide",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15408,
+        "name": "Heavy Scorpid Scale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15409,
+        "name": "Refined Deeprock Salt",
+        "Quality": 1,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15410,
+        "name": "Scale of Onyxia",
+        "Quality": 3,
+        "BuyPrice": 20000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15412,
+        "name": "Green Dragonscale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15414,
+        "name": "Red Dragonscale",
+        "Quality": 1,
+        "BuyPrice": 6000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15415,
+        "name": "Blue Dragonscale",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15416,
+        "name": "Black Dragonscale",
+        "Quality": 1,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15417,
+        "name": "Devilsaur Leather",
+        "Quality": 1,
+        "BuyPrice": 2000,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 15419,
+        "name": "Warbear Leather",
+        "Quality": 1,
+        "BuyPrice": 2400,
+        "item": null,
+        "Flags": 0
+      },
+      {
+        "entry": 17012,
+        "name": "Core Leather",
+        "Quality": 1,
+        "BuyPrice": 4000,
+        "item": null,
+        "Flags": 0
+      }
+]
